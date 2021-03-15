@@ -15,7 +15,7 @@ UrsabetaDigitalStudios built the hipa app as an ad-supported app. This service i
 
 **Information Collection and Use**
 
-For a better experience while using hipa, I may require you to provide me with certain personally identifiable information, including user name and profile picture. For verification purposes, I may require you to proved phone number or email address. The information that I request will be retained by me and used to provide my service. If you delete your account or a hipa event you created, all related data is permanently deleted, except the chat messages you submitted in events others created. All data related to any events in hipa (event descriptions, chats etc.) will be permanently deleted after 3 months past the date of the event. The app does use third party services that may collect information used to identify you. 
+For a better experience while using hipa, I may require you to provide me with certain personally identifiable information, including user name and profile picture. For verification purposes, I may require you to provide phone number or email address. The information that I request will be retained by me and used to provide my service. If you delete your account or a hipa event you created, all related data is permanently deleted, except the chat messages you submitted in events others created. All data related to any events in hipa (event descriptions, chats etc.) will be permanently deleted after 3 months past the date of the event. The app does use third party services that may collect information used to identify you. 
 
 **Log Data**
 
